@@ -1,0 +1,10 @@
+{
+  "name": "async-await-primise",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "async": "^1.0.0"
+  }
+}
